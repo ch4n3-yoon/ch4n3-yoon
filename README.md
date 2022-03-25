@@ -1,26 +1,47 @@
 ## PROFILE
-- NAME: SeokChan Yoon (ch4n3)
-- CONTACT: ch4n3.yoon@gmail.com
+- SeokChan Yoon (ch4n3)
+- ch4n3.yoon@gmail.com
 - A CTF player of *STEALIEN* and *Aleph Infinite*
+- Working for STEALIEN (2020.07. ~ ) 
+
+## TECH.
+### BACKEND
+- Python
+    - Django : ★★★★☆
+    - Flask : ★★★☆☆
+- Javascript
+    - Express.js : ★★★★☆
+    - Koa.js : ★★★★☆
+- PHP
+    - Pure : ★★★☆☆
+    - Wordpress Plugin : ★★☆☆☆
+    - GnuBoard Plugin & Schema Modification : ★★☆☆☆
+
+### FRONTEND
+- HTML : ★★☆☆☆
+- CSS : ★★☆☆☆
+- Javascript
+    - React.js (Next.js) : ★★★★☆
+    - Vue.js : ★★★☆☆
 
 ## ACHIEVEMENT/AWARDS
 ### 2022
 - Finalist, CODEGATE 2022 UNIVERSITY (team 경희대미남해커들)
 
 ### 2021
-- Finalist (2nd), 사이버 공격방어대회(CCE) 공공부문 Quals (team resilience)
+- Finalist (2nd, 국가보안연구소장상), 사이버 공격방어대회(CCE) 공공부문 Quals (team resilience)
 
 ### 2020
-- 장려상, 경희대학교 해커톤 (team 우승못하면동반입대)
+- 장려상, 경희대학교 해커톤 (team 1등못하면동반입대)
 
 ### 2019
-- Finalist (2nd), 사이버작전경연대회 2019 학생부 (team 윤석찬TV구독과좋아요알림설정까지)
+- Finalist (2nd, 사이버작전사령관상), 사이버작전경연대회 2019 학생부 (team 윤석찬TV구독과좋아요알림설정까지)
 
 ### 2018
 - 개인전 최우수상 (1st, 서울여대 총장상), 제 4회 정보보안경진대회 개인예선 
 - 단체전 최우수상 (1st, 교육부 장관상), 제 4회 정보보안경진대회 단체본선 (team 문시우1인팀)
 - Finalist (18th), CODEGATE 2022 JUNIOR
-- 은상, 제 3회 전국청소년모의해킹대회
+- 은상 (3rd), 제 3회 전국청소년모의해킹대회
 - 생활부문 장려상, 제 16회 SMARTEEN APP CLUB AppJam 해커톤
 
 ### 2017
@@ -49,3 +70,4 @@
 - 유튜브 ‘인싸담당자’ 채널 <스틸리언> 편 출연
     - [https://www.youtube.com/watch?v=ueslFj2Dbgc](https://www.youtube.com/watch?v=ueslFj2Dbgc)
 
+## PRESENTATION
