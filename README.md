@@ -28,12 +28,15 @@
 - 우수상 (2nd), UBUNTU CTF
 
 ## BUG BOUNTY
+### NAVER
 - NBB-1126, Stored XSS
 - NBB-1143, SQL Injection
 - NBB-1260, Stored XSS
 - NBB-2315, Reflected XSS
 - NBB-2316, Reflected XSS
 - NBB-2314, Reflected XSS
+### Others
+- to be added soon :)
 
 ## MEDIA
 ### 2020
