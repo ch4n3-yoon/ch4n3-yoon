@@ -4,26 +4,6 @@
 - A CTF player of *STEALIEN* and *Aleph Infinite*
 - Working for STEALIEN (2020.07. ~ ) 
 
-## TECH.
-### BACKEND
-- Python
-    - Django : ★★★★☆
-    - Flask : ★★★☆☆
-- Javascript
-    - Express.js : ★★★★☆
-    - Koa.js : ★★★★☆
-- PHP
-    - Pure : ★★★☆☆
-    - Wordpress Plugin : ★★☆☆☆
-    - GnuBoard Plugin & Schema Modification : ★★☆☆☆
-
-### FRONTEND
-- HTML : ★★☆☆☆
-- CSS : ★★☆☆☆
-- Javascript
-    - React.js (Next.js) : ★★★★☆
-    - Vue.js : ★★★☆☆
-
 ## ACHIEVEMENT/AWARDS
 ### 2022
 - Finalist, CODEGATE 2022 UNIVERSITY (team 경희대미남해커들)
@@ -46,7 +26,7 @@
 
 ### 2017
 - 단체전 최우수상 (1st), 제 3회 정보보안경진대회 단체본선 (team ???)
-- 우수상 (2nd), UBUNTU CTF
+- 우수상 (2nd), KMU(국민대학교) X UBUNTU CTF
 
 ## BUG BOUNTY
 ### NAVER
@@ -71,3 +51,8 @@
     - [https://www.youtube.com/watch?v=ueslFj2Dbgc](https://www.youtube.com/watch?v=ueslFj2Dbgc)
 
 ## PRESENTATION
+### 2022
+- <모던 웹 서비스에서의 버그케이스와 시큐어코딩> (@STEALIEN Security Semiar; 3S)
+    - For English Reader, <Bug Cases and Secure Coding Techniques, in Modern Web Services>
+    - Related Press Releases (Kor): [https://www.boannews.com/media/view.asp?idx=107983&kind=](https://www.boannews.com/media/view.asp?idx=107983&kind=)
+    - Replay: [https://www.youtube.com/watch?v=6YgSTZ9i7Vk](https://www.youtube.com/watch?v=6YgSTZ9i7Vk)
