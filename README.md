@@ -18,7 +18,7 @@
 - 단체전 최우수상 (1st, 한국교육학술정보원장상), 2017 제 3회 정보보안경진대회 단체본선 (team 4-day exploit)
 - 2nd, KMU(국민대학교) X UBUNTU CTF
 
-## BUG BOUNTY
+## BUG BOUNTIES
 ### NAVER
 - NBB-1126, Stored XSS
 - NBB-1143, SQL Injection
@@ -43,3 +43,8 @@
     - For English Reader, <Bug Cases and Secure Coding Techniques, in Modern Web Services>
     - Related Press Releases (Kor): [https://www.boannews.com/media/view.asp?idx=107983&kind=](https://www.boannews.com/media/view.asp?idx=107983&kind=)
     - Replay: [https://www.youtube.com/watch?v=6YgSTZ9i7Vk](https://www.youtube.com/watch?v=6YgSTZ9i7Vk)
+
+### 2023
+- <Django 1-day Vulnerability Analysis> (@HackingCamp 26th 🇰🇷)
+    - I analyzed and shared disclosed vulnerabilities with high severity to Django Project, 2022
+    - Reference: [http://hackingcamp.org/](http://hackingcamp.org/)
