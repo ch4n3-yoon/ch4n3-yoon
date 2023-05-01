@@ -16,7 +16,7 @@
 - 2nd, 2018 제 3회 전국청소년모의해킹대회
 - 3rd, 2018 제 16회 SMARTEEN APP CLUB AppJam Hackathon
 - 단체전 최우수상 (1st, 한국교육학술정보원장상), 2017 제 3회 정보보안경진대회 단체본선 (team 4-day exploit)
-- 2nd, KMU(국민대학교) X UBUNTU CTF
+- 우수상(2nd), 2017 KMU(국민대학교) X UBUNTU 1st CTF
 
 ## BUG BOUNTIES
 ### NAVER
