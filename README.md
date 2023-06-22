@@ -5,9 +5,10 @@
 - Working for STEALIEN (2020.07. ~ ) 
 
 ## ACHIEVEMENT/AWARDS
-- Finalist, CODEGATE 2022 UNIVERSITY (team 경희대미남해커들)
-- Finalist (2nd, 국가보안연구소장상), 2022 사이버공격방어대회 (CCE) 공공부문 Quals (team resilience)
-- Finalist (2nd, 국가보안연구소장상), 2021 사이버공격방어대회(CCE) 공공부문 Quals (team resilience)
+- Finalist, CODEGATE 2023 UNIVERSITY (team: 경희대미남해커들)
+- Finalist, CODEGATE 2022 UNIVERSITY (team: 경희대미남해커들)
+- Finalist (2nd, 국가보안연구소장상), 2022 사이버공격방어대회(CCE) 공공부문 Quals (team: resilience)
+- Finalist (2nd, 국가보안연구소장상), 2021 사이버공격방어대회(CCE) 공공부문 Quals (team: resilience)
 - 3rd, 2020 Kyunghee University Hackathon (team 1등못하면동반입대)
 - Finalist (2nd, 사이버작전사령관상), 2019 사이버작전경연대회 학생부 (team 윤석찬TV구독과좋아요알림설정까지)
 - 개인전 최우수상 (1st, 서울여대 총장상), 2018 제 4회 정보보안경진대회 개인예선 
@@ -26,6 +27,9 @@
 - NBB-2315, Reflected XSS
 - NBB-2316, Reflected XSS
 - NBB-2314, Reflected XSS
+
+### Others.
+- to be added really soon 🤫
 
 ## MEDIA / PRESENTATION
 ### 2020
