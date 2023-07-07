@@ -28,8 +28,8 @@
 - NBB-2316, Reflected XSS
 - NBB-2314, Reflected XSS
 
-### Others.
-- to be added really soon 🤫
+### Django
+- CVE-2023-36053: Potential regular expression denial of service vulnerability in EmailValidator/URLValidator
 
 ## MEDIA / PRESENTATION
 ### 2020
