@@ -52,3 +52,6 @@
 - <Django 1-day Vulnerability Analysis> (@HackingCamp 26th 🇰🇷)
     - I analyzed and shared disclosed vulnerabilities with high severity to Django Project, 2022
     - Reference: [http://hackingcamp.org/](http://hackingcamp.org/)
+- <Django Framework N-day Vulnerability Analysis & Secure Coding Guide> (@CODEGATE 2023 🇰🇷)
+    - I issued some insecure usages in django with analyzing 1-day vulnerabilities and gave secure coding guide 
+    - Reference: [https://codegate.org/sub/conference](https://codegate.org/sub/conference)
