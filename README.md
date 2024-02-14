@@ -2,7 +2,7 @@
 - Seokchan Yoon (@ch4n3.yoon)
 - ch4n3.yoon@gmail.com
 - A CTF player of *STEALIEN* and *Aleph Infinite*
-- Working for STEALIEN (2020.07. ~ ) 
+- Web Security Researcher @ STEALIEN (2020.07. ~ 2023.06.)
 
 ## ACHIEVEMENT/AWARDS
 - Finalist, CODEGATE 2023 UNIVERSITY (team: 경희대미남해커들)
@@ -30,6 +30,7 @@
 
 ### Django
 - CVE-2023-36053: Potential regular expression denial of service vulnerability in EmailValidator/URLValidator
+- CVE-2024-24680: Potential denial-of-service in intcomma template filter
 
 ## MEDIA / PRESENTATION
 ### 2020
