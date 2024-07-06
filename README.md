@@ -32,6 +32,10 @@
 - CVE-2023-36053: Potential regular expression denial of service vulnerability in EmailValidator/URLValidator
 - CVE-2024-24680: Potential denial-of-service in intcomma template filter
 - CVE-2024-27351: Potential regular expression denial-of-service in django.utils.text.Truncator.words()
+- CVE-2024-21520: Cross-Site Scripting (XSS) in browserable API of [django-rest-framework](https://github.com/encode/django-rest-framework)
+
+### Apache Airflow
+- (coming soon)
 
 ## MEDIA / PRESENTATION
 ### 2020
