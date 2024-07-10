@@ -37,6 +37,9 @@
 ### Apache Airflow
 - (coming soon)
 
+### Ruby on Rails
+- (coming soon)
+
 ## MEDIA / PRESENTATION
 ### 2020
 - KBS <청년일자리프로젝트 사장님이 美쳤어요> 사내 최연소 연구원으로 출연
