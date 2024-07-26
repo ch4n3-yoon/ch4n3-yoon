@@ -1,7 +1,7 @@
 ## PROFILE
 - Seokchan Yoon (@ch4n3.yoon)
 - ch4n3.yoon@gmail.com
-- A CTF player of *STEALIEN* and *Aleph Infinite*
+- A CTF player
 - Web Security Researcher @ STEALIEN (2020.07. ~ 2023.06.)
 
 ## ACHIEVEMENT/AWARDS
@@ -35,7 +35,8 @@
 - CVE-2024-21520: Cross-Site Scripting (XSS) in browserable API of [django-rest-framework](https://github.com/encode/django-rest-framework)
 
 ### Apache Airflow
-- (coming soon)
+- CVE-2024-39877: Apache Airflow: DAG Author Code Execution possibility in airflow-scheduler
+- CVE-2024-39863: Apache Airflow: Potential XSS Vulnerability
 
 ### Ruby on Rails
 - (coming soon)
