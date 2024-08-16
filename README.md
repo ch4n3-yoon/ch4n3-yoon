@@ -41,6 +41,7 @@
 ### Apache Airflow
 - CVE-2024-39877: Apache Airflow: DAG Author Code Execution possibility in `airflow-scheduler`
 - CVE-2024-39863: Apache Airflow: Potential XSS Vulnerability
+- (coming soon)
 
 ### Ruby 
 - CVE-2024-41123: DoS vulnerabilities in REXML
@@ -49,7 +50,7 @@
 - (coming soon)
 
 ### Java Spring
-- (coming soon)
+- CVE-2024-38809: Spring Framework DoS via conditional HTTP request
 
 ## MEDIA / PRESENTATION
 ### 2020
