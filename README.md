@@ -1,10 +1,10 @@
-## PROFILE
+## Profile
 - Seokchan Yoon (@ch4n3.yoon)
 - ch4n3.yoon@gmail.com
-- A CTF player
+- A CTF player 🇰🇷
 - Web Security Researcher @ STEALIEN (2020.07. ~ 2023.06.)
 
-## ACHIEVEMENT/AWARDS
+## Achievements/Awards
 - Finalist, CODEGATE 2023 UNIVERSITY (team: 경희대미남해커들)
 - Finalist, CODEGATE 2022 UNIVERSITY (team: 경희대미남해커들)
 - Finalist (2nd, 국가보안연구소장상), 2022 사이버공격방어대회(CCE) 공공부문 Quals (team: resilience)
@@ -19,7 +19,7 @@
 - 단체전 최우수상 (1st, 한국교육학술정보원장상), 2017 제 3회 정보보안경진대회 단체본선 (team 4-day exploit)
 - 우수상(2nd), 2017 KMU(국민대학교) X UBUNTU 1st CTF
 
-## BUG BOUNTIES
+## Disclosed Vulnerabilities
 ### NAVER
 - NBB-1126, Stored XSS
 - NBB-1143, SQL Injection
@@ -29,7 +29,7 @@
 - NBB-2314, Reflected XSS
 
 ### Python
-- (coming soon)
+- CVE-2024-7592: Quadratic complexity parsing cookies with backslashes
 
 ### Django
 - CVE-2023-36053: Potential regular expression denial of service vulnerability in `EmailValidator`/`URLValidator`
@@ -52,7 +52,7 @@
 ### Java Spring
 - CVE-2024-38809: Spring Framework DoS via conditional HTTP request
 
-## MEDIA / PRESENTATION
+## Media / Presentations
 ### 2020
 - KBS <청년일자리프로젝트 사장님이 美쳤어요> 사내 최연소 연구원으로 출연
     - [https://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_code=T2016-0639&program_id=PS-2020170106-01-000&section_code=05&broadcast_complete_yn=&local_station_code=00](https://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_code=T2016-0639&program_id=PS-2020170106-01-000&section_code=05&broadcast_complete_yn=&local_station_code=00)
