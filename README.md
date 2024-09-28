@@ -76,3 +76,7 @@
 - <Django Framework N-day Vulnerability Analysis & Secure Coding Guide> (@CODEGATE 2023 🇰🇷)
     - I issued some insecure usages in django with analyzing 1-day vulnerabilities and gave secure coding guide 
     - Reference: [https://codegate.org/sub/conference](https://codegate.org/sub/conference)
+
+### 2024
+- <해커의 관점에서 바라본 Django Framework> (@PyCon KR 10th)
+    - https://2024.pycon.kr/
