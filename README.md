@@ -47,7 +47,8 @@
 - CVE-2024-41123: DoS vulnerabilities in REXML
 
 ### Ruby on Rails
-- (coming soon)
+- CVE-2024-47887: Possible ReDoS vulnerability in HTTP Token authentication in Action Controller
+- CVE-2024-41128: Possible ReDoS vulnerability in query parameter filtering in Action Dispatch
 
 ### Java Spring
 - CVE-2024-38809: Spring Framework DoS via conditional HTTP request
