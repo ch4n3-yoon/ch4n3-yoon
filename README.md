@@ -37,6 +37,7 @@
 - CVE-2024-27351: Potential regular expression denial-of-service in `django.utils.text.Truncator.words()`
 - CVE-2024-21520: Cross-Site Scripting (XSS) in browserable API of [django-rest-framework](https://github.com/encode/django-rest-framework)
 - CVE-2024-41991: Potential denial-of-service vulnerability in `django.utils.html.urlize()` and `AdminURLFieldWidget`
+- CVE-2024-53908 : Potential SQL injection in `HasKey(lhs, rhs)` on Oracle
 
 ### Apache Airflow
 - CVE-2024-39877: Apache Airflow: DAG Author Code Execution possibility in `airflow-scheduler`
