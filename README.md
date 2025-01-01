@@ -5,6 +5,7 @@
 - Web Security Researcher @ STEALIEN (2020.07. ~ 2023.06.)
 
 ## Achievements/Awards
+- 최우수상(1st, 국방부 장관상), 2024 화이트햇콘퍼런스 (team: 키보드워리어플랫폼) 용사부문 Quals
 - Finalist, CODEGATE 2023 UNIVERSITY (team: 경희대미남해커들)
 - Finalist, CODEGATE 2022 UNIVERSITY (team: 경희대미남해커들)
 - Finalist (2nd, 국가보안연구소장상), 2022 사이버공격방어대회(CCE) 공공부문 Quals (team: resilience)
