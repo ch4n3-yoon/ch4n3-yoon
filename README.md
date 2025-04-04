@@ -2,7 +2,9 @@
 - Seokchan Yoon (@ch4n3.yoon)
 - ch4n3.yoon@gmail.com
 - A CTF player 🇰🇷
-- Web Security Researcher @ STEALIEN (2020.07. ~ 2023.06.)
+- Web Security Researcher @ STEALIEN (2020.07. - 2023.06.)
+- Unit `[REDACTED]`, Private `[REDACTED]` @ Research Institute under the Ministry of National Defense, Korea (2023.09. - 2025.03.)
+- Security Researcher @ Zellic.io (2025.04. - now)
 
 ## Achievements/Awards
 - 최우수상(1st, 국방부 장관상), 2024 화이트햇콘퍼런스 (team: 키보드워리어플랫폼) 용사부문 Quals
