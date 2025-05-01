@@ -1,26 +1,71 @@
 ## Profile
 - Seokchan Yoon (@ch4n3.yoon)
+- Security Researcher & CTF Player 🇰🇷
 - ch4n3.yoon@gmail.com
-- A CTF player 🇰🇷
-- Web Security Researcher @ STEALIEN (2020.07. - 2023.06.)
-- Unit `[REDACTED]`, Private `[REDACTED]` @ Research Institute under the Ministry of National Defense, Korea (2023.09. - 2025.03.)
+
+## Work Experiences
 - Security Researcher @ Zellic.io (2025.04. - now)
+- `[REDACTED]` Researcher @ `[REDACTED]` Research Institute under Ministry of National Defense, Korea (2023.09. - 2025.03.)
+- Web Security Researcher @ STEALIEN (2020.07. - 2023.06.)
+
 
 ## Achievements/Awards
-- 최우수상(1st, 국방부 장관상), 2024 화이트햇콘퍼런스 (team: 키보드워리어플랫폼) 용사부문 Quals
-- Finalist, CODEGATE 2023 UNIVERSITY (team: 경희대미남해커들)
-- Finalist, CODEGATE 2022 UNIVERSITY (team: 경희대미남해커들)
-- Finalist (2nd, 국가보안연구소장상), 2022 사이버공격방어대회(CCE) 공공부문 Quals (team: resilience)
-- Finalist (2nd, 국가보안연구소장상), 2021 사이버공격방어대회(CCE) 공공부문 Quals (team: resilience)
-- 3rd, 2020 Kyunghee University Hackathon (team 1등못하면동반입대)
-- Finalist (2nd, 사이버작전사령관상), 2019 사이버작전경연대회 학생부 (team 윤석찬TV구독과좋아요알림설정까지)
-- 개인전 최우수상 (1st, 서울여대 총장상), 2018 제 4회 정보보안경진대회 개인예선 
-- 단체전 최우수상 (1st, 교육부 장관상), 2018 제 4회 정보보안경진대회 단체본선 (team 문시우1인팀)
-- Finalist (18th), CODEGATE 2018 JUNIOR
-- 2nd, 2018 제 3회 전국청소년모의해킹대회
-- 3rd, 2018 제 16회 SMARTEEN APP CLUB AppJam Hackathon
-- 단체전 최우수상 (1st, 한국교육학술정보원장상), 2017 제 3회 정보보안경진대회 단체본선 (team 4-day exploit)
-- 우수상(2nd), 2017 KMU(국민대학교) X UBUNTU 1st CTF
+
+### 2025
+- **2025 DEF CON CTF 33**
+  Finalist (Cold Fusion)
+
+### 2024
+- **2024 White Hat Contest Soldier Division**  
+  (화이트햇 콘테스트 in Korean)
+  **1st Place**, hosted by the Ministry of National Defense, Korea  
+  Awarded the Minister of National Defense Award (___국방부 장관상___)
+
+### 2023
+- **2023 CODEGATE University Division**  
+  Finalist, hosted by the Ministry of Science and ICT, Korea
+
+### 2022
+- **2022 CODEGATE University Division**  
+  Finalist, hosted by the Ministry of Science and ICT, Korea
+
+- **2022 Cyber Conflict Exercise (CCE) Public Institution Sector Division**  
+  (사이버공격방어대회 in Korean)
+  **2nd Place**, hosted by the National Intelligence Service, Korea  
+  Awarded the Director of National Security Research Institute Award (___국가보안연구소장상___)
+
+- **2022 HACKTHEON SEJONG National University Cybersecurity Competition**  
+  6th Place, hosted by Sejong Special Self-Governing City, Korea  
+  Awarded the Director of National Security Research Institute Award (___국가보안연구소장상___)
+
+### 2021
+- **2021 Cyber Conflict Exercise (CCE) Public Institution Sector Division**
+  (사이버공격방어대회 in Korean)  
+  **2nd Place**, hosted by the National Intelligence Service, Korea  
+  Awarded the Director of National Security Research Institute Award (___국가보안연구소장상___)
+
+### 2019
+- **2019 Cyber Operations Challenge Student Division** 
+  (사이버작전경연대회 in Korean) 
+  **2nd Place**, hosted by the Ministry of National Defense, Korea  
+  Awarded the Cyber Operations Commander Award (___사이버작전사령관상___)
+
+### 2018
+- **2018 Cybersecurity Competition Individual Preliminary Round**  
+  (정보보안경진대회 in Korean)
+  **1st Place**, hosted by the Ministry of Education, Korea  
+  Awarded the President of Seoul Women's University Award (___서울여자대학교 총장상___)
+
+- **2018 Cybersecurity Competition Team Finals**  
+  (정보보안경진대회 in Korean)
+  **1st Place**, hosted by the Ministry of Education, Korea  
+  Awarded the Minister of Education Award (___교육부 장관상___)
+
+### 2017
+- **2017 Cybersecurity Competition Team Finals**  
+  (정보보안경진대회 in Korean)
+  **1st Place**, hosted by the Korea Education and Research Information Service  
+  Awarded the Director of Korea Education and Research Information Service Award (___한국교육학술정보원장상___)
 
 ## Disclosed Vulnerabilities
 ### NAVER
