@@ -13,12 +13,11 @@
 
 ### 2025
 - **2025 DEF CON CTF 33**
-  Finalist (Cold Fusion)
+  Finalist (team: Cold Fusion)
 
 ### 2024
 - **2024 White Hat Contest Soldier Division**  
-  (화이트햇 콘테스트 in Korean)
-  **1st Place**, hosted by the Ministry of National Defense, Korea  
+  (화이트햇 콘테스트) **1st Place**, hosted by the Ministry of National Defense, Korea  
   Awarded the Minister of National Defense Award (___국방부 장관상___)
 
 ### 2023
@@ -30,8 +29,7 @@
   Finalist, hosted by the Ministry of Science and ICT, Korea
 
 - **2022 Cyber Conflict Exercise (CCE) Public Institution Sector Division**  
-  (사이버공격방어대회 in Korean)
-  **2nd Place**, hosted by the National Intelligence Service, Korea  
+  (사이버공격방어대회) **2nd Place**, hosted by the National Intelligence Service, Korea  
   Awarded the Director of National Security Research Institute Award (___국가보안연구소장상___)
 
 - **2022 HACKTHEON SEJONG National University Cybersecurity Competition**  
@@ -39,32 +37,27 @@
   Awarded the Director of National Security Research Institute Award (___국가보안연구소장상___)
 
 ### 2021
-- **2021 Cyber Conflict Exercise (CCE) Public Institution Sector Division**
-  (사이버공격방어대회 in Korean)  
-  **2nd Place**, hosted by the National Intelligence Service, Korea  
+- **2021 Cyber Conflict Exercise (CCE) Public Institution Sector Division**  
+  (사이버공격방어대회) **2nd Place**, hosted by the National Intelligence Service, Korea
   Awarded the Director of National Security Research Institute Award (___국가보안연구소장상___)
 
 ### 2019
-- **2019 Cyber Operations Challenge Student Division** 
-  (사이버작전경연대회 in Korean) 
-  **2nd Place**, hosted by the Ministry of National Defense, Korea  
+- **2019 Cyber Operations Challenge Student Division**   
+  (사이버작전경연대회) **2nd Place**, hosted by the Ministry of National Defense, Korea  
   Awarded the Cyber Operations Commander Award (___사이버작전사령관상___)
 
 ### 2018
 - **2018 Cybersecurity Competition Individual Preliminary Round**  
-  (정보보안경진대회 in Korean)
-  **1st Place**, hosted by the Ministry of Education, Korea  
+  (정보보안경진대회) **1st Place**, hosted by the Ministry of Education, Korea  
   Awarded the President of Seoul Women's University Award (___서울여자대학교 총장상___)
 
 - **2018 Cybersecurity Competition Team Finals**  
-  (정보보안경진대회 in Korean)
-  **1st Place**, hosted by the Ministry of Education, Korea  
+  (정보보안경진대회) **1st Place**, hosted by the Ministry of Education, Korea  
   Awarded the Minister of Education Award (___교육부 장관상___)
 
 ### 2017
 - **2017 Cybersecurity Competition Team Finals**  
-  (정보보안경진대회 in Korean)
-  **1st Place**, hosted by the Korea Education and Research Information Service  
+  (정보보안경진대회) **1st Place**, hosted by the Korea Education and Research Information Service  
   Awarded the Director of Korea Education and Research Information Service Award (___한국교육학술정보원장상___)
 
 ## Disclosed Vulnerabilities
