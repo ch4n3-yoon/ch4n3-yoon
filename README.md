@@ -16,7 +16,7 @@
 - **2025 DEF CON 33 CTF**  
   Finalist (team: Cold Fusion)
 - **2025 Cyber Conflict Exercise (CCE) General Division**  
-  (사이버공격방어대회) Finalist, hosted by the National Intelligence Service, Korea, hosted by the Ministry of Science and ICT, Korea
+  (사이버공격방어대회) Finalist, hosted by the National Intelligence Service, Korea
 
 ### 2024
 - **2024 White Hat Contest Soldier Division**  
