@@ -1,6 +1,6 @@
 ## Profile
 - Seokchan Yoon (@ch4n3.yoon, @scyoon)
-- Security Researcher / CTF Player / Bug Bounty Hunter 🇰🇷
+- Security Researcher / CTF Player of BlueWater (WaterPaddler) / [Bug Bounty Hunter](https://hackerone.com/scyoon)
 - ch4n3.yoon@gmail.com
 
 ## Work Experiences
