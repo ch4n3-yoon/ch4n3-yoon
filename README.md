@@ -41,7 +41,7 @@
 
 ### 2021
 - **2021 Cyber Conflict Exercise (CCE) Public Institution Sector Division**  
-  (사이버공격방어대회) **2nd Place**, hosted by the National Intelligence Service, Korea
+  (사이버공격방어대회) **2nd Place**, hosted by the National Intelligence Service, Korea  
   Awarded the Director of National Security Research Institute Award (___국가보안연구소장상___)
 
 ### 2019
@@ -64,6 +64,9 @@
   Awarded the Director of Korea Education and Research Information Service Award (___한국교육학술정보원장상___)
 
 ## Disclosed Vulnerabilities
+### GitHub
+- HackerOne #2646500, Pre-Auth DoS Vulnerability in GitHub Enterprise (report not publicly disclosed)
+
 ### NAVER
 - NBB-1126, Stored XSS
 - NBB-1143, SQL Injection
