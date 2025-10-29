@@ -87,6 +87,9 @@
 - CVE-2024-53908: Potential SQL injection in `HasKey(lhs, rhs)` on Oracle
 - CVE-2025-48432: Potential log injection via unescaped request path
 
+### FastAPI / Starlette
+- CVE-2025-62727: O(n^2) DoS via Range header merging in `starlette.responses.FileResponse`
+
 ### Apache Airflow
 - CVE-2024-39877: Apache Airflow: DAG Author Code Execution possibility in `airflow-scheduler`
 - CVE-2024-39863: Apache Airflow: Potential XSS Vulnerability
