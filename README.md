@@ -86,6 +86,7 @@
 - CVE-2024-41991: Potential denial-of-service vulnerability in `django.utils.html.urlize()` and `AdminURLFieldWidget`
 - CVE-2024-53908: Potential SQL injection in `HasKey(lhs, rhs)` on Oracle
 - CVE-2025-48432: Potential log injection via unescaped request path
+- CVE-2025-64458: Potential denial-of-service vulnerability in `HttpResponseRedirect` and `HttpResponsePermanentRedirect` on Windows
 
 ### FastAPI / Starlette
 - CVE-2025-62727: O(n^2) DoS via Range header merging in `starlette.responses.FileResponse`
