@@ -87,6 +87,7 @@
 - CVE-2024-53908: Potential SQL injection in `HasKey(lhs, rhs)` on Oracle
 - CVE-2025-48432: Potential log injection via unescaped request path
 - CVE-2025-64458: Potential denial-of-service vulnerability in `HttpResponseRedirect` and `HttpResponsePermanentRedirect` on Windows
+- CVE-2025-64460: Potential denial-of-service vulnerability in XML serializer text extraction
 
 ### FastAPI / Starlette
 - CVE-2025-62727: O(n^2) DoS via Range header merging in `starlette.responses.FileResponse`
