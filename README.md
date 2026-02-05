@@ -4,8 +4,8 @@
 - ch4n3.yoon@gmail.com
 
 ## Work Experiences
-- **Security Team Member @ Airflow of Apache Software Foundation** (2025.07. - now)
 - **Security Researcher @ Zellic.io** (2025.04. - now)
+- Security Team Member @ Airflow of Apache Software Foundation (2025.07. - 2026.01.)
 - `[REDACTED]` Researcher @ `[REDACTED]` Research Institute under Ministry of National Defense, Korea (2023.09. - 2025.03.)
 - Web Security Researcher @ STEALIEN (2020.07. - 2023.06.)
 
