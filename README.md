@@ -97,6 +97,7 @@
 - CVE-2024-39877: Apache Airflow: DAG Author Code Execution possibility in `airflow-scheduler`
 - CVE-2024-39863: Apache Airflow: Potential XSS Vulnerability
 - CVE-2024-45034: Apache Airflow: Authenticated DAG authors could execute code on scheduler nodes
+- CVE-2024-56373: Apache Airflow: SSTI to Code Execution in Airflow through Shared DB Information
 
 ### Ruby 
 - CVE-2024-41123: DoS vulnerabilities in REXML
