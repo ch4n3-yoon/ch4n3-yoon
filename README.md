@@ -89,6 +89,7 @@
 - CVE-2025-64458: Potential denial-of-service vulnerability in `HttpResponseRedirect` and `HttpResponsePermanentRedirect` on Windows
 - CVE-2025-64460: Potential denial-of-service vulnerability in XML serializer text extraction
 - CVE-2026-1285: Potential denial-of-service vulnerability in `django.utils.text.Truncator` HTML methods
+- CVE-2026-25673: Potential denial-of-service vulnerability in `URLField` via Unicode normalization on Windows
 
 ### FastAPI / Starlette
 - CVE-2025-62727: O(n^2) DoS via Range header merging in `starlette.responses.FileResponse`
