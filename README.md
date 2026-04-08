@@ -107,6 +107,7 @@
 ### Ruby on Rails
 - CVE-2024-47887: Possible ReDoS vulnerability in HTTP Token authentication in Action Controller
 - CVE-2024-41128: Possible ReDoS vulnerability in query parameter filtering in Action Dispatch
+- CVE-2026-33170: Possible XSS vulnerability in SafeBuffer#% in Active Support
 
 ### Java Spring
 - CVE-2024-38809: Spring Framework DoS via conditional HTTP request
