@@ -66,6 +66,7 @@
 ## Disclosed Vulnerabilities
 ### GitHub
 - HackerOne #2646500, Pre-Auth DoS Vulnerability in GitHub Enterprise (report not publicly disclosed)
+- CVE-2026-4821: Proxy configuration command injection vulnerability found in GitHub Enterprise Server Management Console configuration API
 
 ### NAVER
 - NBB-1126, Stored XSS
