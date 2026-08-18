@@ -12,6 +12,10 @@
 
 ## Achievements/Awards
 
+### 2026
+- **2026 DEF CON 34 CTF**  
+  Finalist (team: Cold Fusion)
+
 ### 2025
 - **2025 DEF CON 33 CTF**  
   Finalist (team: Cold Fusion)
